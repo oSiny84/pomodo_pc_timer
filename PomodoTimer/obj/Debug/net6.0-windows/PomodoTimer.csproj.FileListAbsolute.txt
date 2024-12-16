@@ -1,0 +1,16 @@
+C:\temp\PomodoTimer\PomodoTimer\bin\Debug\net6.0-windows\PomodoTimer.exe
+C:\temp\PomodoTimer\PomodoTimer\bin\Debug\net6.0-windows\PomodoTimer.deps.json
+C:\temp\PomodoTimer\PomodoTimer\bin\Debug\net6.0-windows\PomodoTimer.runtimeconfig.json
+C:\temp\PomodoTimer\PomodoTimer\bin\Debug\net6.0-windows\PomodoTimer.dll
+C:\temp\PomodoTimer\PomodoTimer\bin\Debug\net6.0-windows\PomodoTimer.pdb
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.TimerForm.resources
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.csproj.GenerateResource.cache
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.AssemblyInfoInputs.cache
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.AssemblyInfo.cs
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.csproj.CoreCompileInputs.cache
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.dll
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\refint\PomodoTimer.dll
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.pdb
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\PomodoTimer.genruntimeconfig.cache
+C:\temp\PomodoTimer\PomodoTimer\obj\Debug\net6.0-windows\ref\PomodoTimer.dll
