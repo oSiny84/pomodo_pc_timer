@@ -1,4 +1,5 @@
 using System.Media;
+using System.Windows.Forms;
 
 namespace PomodoTimer
 {
@@ -27,6 +28,8 @@ namespace PomodoTimer
 
             defaultFormColor = this.BackColor;
 
+            state = -1;
+
             ResetTimer();
         }
 
@@ -46,6 +49,11 @@ namespace PomodoTimer
 
             switch (state)
             {
+                case -1:
+                    state = 0;
+                    message = "업무 준비하기..";
+                    minutes = 10;
+                    break;
                 case 0:
                     minutes = 25;
                     message = "(1) 25분 일하기..";
@@ -131,7 +139,7 @@ namespace PomodoTimer
             {
                 using (StreamWriter writer = new StreamWriter(logFilePath, true))
                 {
-                    writer.WriteLine($"{DateTime.Now}: {message}");
+                    writer.WriteLine($"{message}");
                 }
             }
             catch (Exception ex)
