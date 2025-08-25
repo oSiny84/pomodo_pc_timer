@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\PomodoTimer\\PomodoTimer\\PomodoTimer.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Desktop\\src\\PomodoTimer_osiny_git\\PomodoTimer\\PomodoTimer.csproj",
       "projectName": "PomodoTimer",
-      "projectPath": "C:\\temp\\PomodoTimer\\PomodoTimer\\PomodoTimer.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Desktop\\src\\PomodoTimer_osiny_git\\PomodoTimer\\PomodoTimer.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\PomodoTimer\\PomodoTimer\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Desktop\\src\\PomodoTimer_osiny_git\\PomodoTimer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

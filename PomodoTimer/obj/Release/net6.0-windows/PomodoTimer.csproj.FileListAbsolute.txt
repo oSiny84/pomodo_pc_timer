@@ -1,0 +1,16 @@
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\bin\Release\net6.0-windows\PomodoTimer.exe
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\bin\Release\net6.0-windows\PomodoTimer.deps.json
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\bin\Release\net6.0-windows\PomodoTimer.runtimeconfig.json
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\bin\Release\net6.0-windows\PomodoTimer.dll
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\bin\Release\net6.0-windows\PomodoTimer.pdb
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.TimerForm.resources
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.dll
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\refint\PomodoTimer.dll
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.pdb
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\PomodoTimer.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Desktop\src\PomodoTimer_osiny_git\PomodoTimer\obj\Release\net6.0-windows\ref\PomodoTimer.dll
